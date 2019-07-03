@@ -5,8 +5,8 @@ import time
 
 driver = webdriver.Chrome("/Users/kartikgupta/Downloads/chromedriver")
 
-username = "enter your password"
-password = "enter your username"
+username = "enter your username"
+password = "enter your password"
 url = "https://www.gmail.com"
 import datetime
 
